@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "851630344287",
+    "project_id": "flutter-rendez-vous",
+    "storage_bucket": "flutter-rendez-vous.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:851630344287:android:262ab1fffae654efd773ea",
+        "android_client_info": {
+          "package_name": "com.example.rendez_vous"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPAMtz8VfloxXJ9qxO_Z48T8JOvQRYEoE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
